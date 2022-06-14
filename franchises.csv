@@ -1,0 +1,276 @@
+Franchise,Movie,movie_year,averageRating,numVotes,order
+Mad Max,Mad Max,1979.0,6.8,204547.0,1
+Mad Max,The Road Warrior,1981.0,7.6,178116.0,2
+Mad Max,Mad Max Beyond Thunderdome,1985.0,6.2,135391.0,3
+Mad Max,Mad Max: Fury Road,2015.0,8.1,973185.0,4
+The Lord of the Rings,The Lord of the Rings: The Fellowship of the Ring,2001.0,8.8,1804967.0,1
+The Lord of the Rings,The Lord of the Rings: The Two Towers,2002.0,8.8,1611089.0,2
+The Lord of the Rings,The Lord of the Rings: The Return of the King,2003.0,9.0,1783856.0,3
+The Hobbit,The Hobbit: An Unexpected Journey,2012.0,7.8,805741.0,1
+The Hobbit,The Hobbit: The Desolation of Smaug,2013.0,7.8,644859.0,2
+The Hobbit,The Hobbit: The Battle of the Five Armies,2014.0,7.4,515722.0,3
+Harry Potter,Harry Potter and the Sorcerer's Stone,2001.0,7.6,755354.0,1
+Harry Potter,Harry Potter and the Chamber of Secrets,2002.0,7.4,617527.0,2
+Harry Potter,Harry Potter and the Prisoner of Azkaban,2004.0,7.9,616775.0,3
+Harry Potter,Harry Potter and the Goblet of Fire,2005.0,7.7,609948.0,4
+Harry Potter,Harry Potter and the Order of the Phoenix,2007.0,7.5,566325.0,5
+Harry Potter,Harry Potter and the Half-Blood Prince,2009.0,7.6,530263.0,6
+Harry Potter,Harry Potter and the Deathly Hallows: Part 1,2010.0,7.7,534000.0,7
+Harry Potter,Harry Potter and the Deathly Hallows: Part 2,2011.0,8.1,850000.0,8
+Fantastic Beasts,Fantastic Beasts and Where to Find Them,2016.0,7.2,464513.0,1
+Fantastic Beasts,Fantastic Beasts: The Crimes of Grindelwald,2018.0,6.5,272532.0,2
+Fantastic Beasts,Fantastic Beasts: The Secrets of Dumbledore,2022.0,6.2,88236.0,3
+Mission: Impossible,Mission: Impossible,1996.0,7.1,416630.0,1
+Mission: Impossible,Mission: Impossible II,2000.0,6.1,336049.0,2
+Mission: Impossible,Mission: Impossible III,2006.0,6.9,350888.0,3
+Mission: Impossible,Mission: Impossible - Ghost Protocol,2011.0,7.4,482487.0,4
+Mission: Impossible,Mission: Impossible - Rogue Nation,2015.0,7.4,366142.0,5
+Mission: Impossible,Mission: Impossible - Fallout,2018.0,7.7,323374.0,6
+Star Wars,Star Wars,1977.0,8.6,1328170.0,1
+Star Wars,Star Wars: Episode V - The Empire Strikes Back,1980.0,8.7,1256282.0,2
+Star Wars,Star Wars: Episode VI - Return of the Jedi,1983.0,8.3,1026249.0,3
+Star Wars,Star Wars: Episode I - The Phantom Menace,1999.0,6.5,785264.0,4
+Star Wars,Star Wars: Episode II - Attack of the Clones,2002.0,6.6,693099.0,5
+Star Wars,Star Wars: Episode III - Revenge of the Sith,2005.0,7.6,769134.0,6
+Star Wars,Star Wars: Episode VII - The Force Awakens,2015.0,7.8,912305.0,7
+Star Wars,Rogue One: A Star Wars Story,2016.0,7.8,609877.0,8
+Star Wars,Star Wars: Episode VIII - The Last Jedi,2017.0,6.9,614848.0,9
+Star Wars,Solo: A Star Wars Story,2018.0,6.9,334003.0,10
+Star Wars,Star Wars: Episode IX - The Rise of Skywalker,2019.0,6.5,433092.0,11
+Bourne,The Bourne Identity,2002.0,7.9,539593.0,1
+Bourne,The Bourne Supremacy,2004.0,7.7,458195.0,2
+Bourne,The Bourne Ultimatum,2007.0,8.0,628526.0,3
+Bourne,The Bourne Legacy,2012.0,6.6,299711.0,4
+Bourne,Jason Bourne,2016.0,6.6,224426.0,5
+Millennium,The Girl Who Played with Fire,2009.0,7.1,94996.0,1
+Millennium,The Girl Who Kicked the Hornet's Nest,2009.0,7.3,71559.0,2
+Millennium,The Girl With the Dragon Tattoo,2011.0,7.8,457000.0,3
+The Hunger Games,The Hunger Games,2012.0,7.2,900675.0,1
+The Hunger Games,The Hunger Games: Catching Fire,2013.0,7.5,652965.0,2
+The Hunger Games,The Hunger Games: Mockingjay - Part 1,2014.0,6.6,446574.0,3
+The Hunger Games,The Hunger Games: Mockingjay - Part 2,2015.0,6.5,318403.0,4
+Indiana Jones,Indiana Jones and the Raiders of the Lost Ark,1981.0,8.4,946187.0,1
+Indiana Jones,Indiana Jones and the Temple of Doom,1984.0,7.5,479288.0,2
+Indiana Jones,Indiana Jones and the Last Crusade,1989.0,8.2,740239.0,3
+Indiana Jones,Indiana Jones and the Kingdom of the Crystal Skull,2008.0,6.1,448586.0,4
+Spider-Man,Spider-Man,2002.0,7.4,797954.0,1
+Spider-Man,Spider-Man 2,2004.0,7.4,635817.0,2
+Spider-Man,Spider-Man 3,2007.0,6.2,575832.0,3
+Spider-Man,The Amazing Spider-Man,2012.0,6.9,641480.0,4
+Spider-Man,The Amazing Spider-Man 2,2014.0,6.6,485723.0,5
+Spider-Man,Spider-Man: Homecoming ,2017.0,7.4,632000.0,6
+The Muppets,The Muppet Movie,1979.0,7.6,35851.0,1
+The Muppets,The Great Muppet Caper,1981.0,7.1,15386.0,2
+The Muppets,The Muppets Take Manhattan,1984.0,6.8,21203.0,3
+The Muppets,The Muppet Christmas Carol,1992.0,7.7,57664.0,4
+The Muppets,Muppet Treasure Island,1996.0,6.9,24063.0,5
+The Muppets,Muppets from Space,1999.0,6.2,19440.0,6
+The Muppets,The Muppets,2011.0,7.1,91979.0,7
+The Muppets,Muppets Most Wanted,2014.0,6.4,34372.0,8
+Ocean's Eleven,Ocean's Eleven,1960.0,6.5,23082.0,1
+Ocean's Eleven,Ocean's Eleven,2001.0,7.7,560250.0,2
+Ocean's Eleven,Ocean's Twelve,2004.0,6.4,384065.0,3
+Ocean's Eleven,Ocean's Thirteen,2007.0,6.9,341819.0,4
+Ocean's Eleven,Ocean's Eight,2018.0,6.8,214000.0,5
+X-Men,X-Men,2000.0,7.3,605989.0,1
+X-Men,X2: X-Men United,2003.0,7.4,542358.0,2
+X-Men,X-Men: The Last Stand,2006.0,6.6,509884.0,3
+X-Men,X-Men Origins: Wolverine,2009.0,6.5,497147.0,4
+X-Men,X-Men: First Class,2011.0,7.7,682189.0,5
+X-Men,The Wolverine,2013.0,6.7,458761.0,6
+X-Men,X-Men: Days of Future Past,2014.0,7.9,700371.0,7
+X-Men,Deadpool,2016.0,8.0,1001530.0,8
+X-Men,X-Men: Apocalypse,2016.0,6.9,426154.0,9
+X-Men,Logan,2017.0,8.1,733713.0,10
+X-Men,Deadpool 2,2018.0,7.7,557315.0,11
+Star Trek,Star Trek: The Motion Picture,1979.0,6.4,89176.0,1
+Star Trek,Star Trek II: The Wrath of Khan,1982.0,7.7,120034.0,2
+Star Trek,Star Trek III: The Search for Spock,1984.0,6.6,79964.0,3
+Star Trek,Star Trek IV: The Voyage Home,1986.0,7.3,84682.0,4
+Star Trek,Star Trek V: The Final Frontier,1989.0,5.4,59722.0,5
+Star Trek,Star Trek VI: The Undiscovered Country,1991.0,7.2,75209.0,6
+Star Trek,Star Trek: First Contact,1996.0,7.6,124558.0,7
+Star Trek,Star Trek: Insurrection,1998.0,6.4,74776.0,8
+Star Trek,Star Trek: Nemesis,2002.0,6.4,78742.0,9
+Star Trek,Star Trek,2009.0,7.9,598962.0,10
+Star Trek,Star Trek Into Darkness,2013.0,7.7,480134.0,11
+Star Trek,Star Trek Beyond,2016.0,7.0,243521.0,12
+Terminator,The Terminator,1984.0,8.1,844973.0,1
+Terminator,Terminator 2: Judgment Day,1991.0,8.6,1071717.0,2
+Terminator,Terminator 3: Rise of the Machines,2003.0,6.3,394991.0,3
+Terminator,Terminator Salvation,2009.0,6.5,358373.0,4
+Terminator,Terminator Genisys,2015.0,6.3,274476.0,5
+Terminator,Terminator: Dark Fate,2019.0,6.2,172661.0,6
+Planet of the Apes,Planet of the Apes,1968.0,8.0,178048.0,1
+Planet of the Apes,Beneath the Planet of the Apes,1970.0,6.0,46677.0,2
+Planet of the Apes,Escape from the Planet of the Apes,1971.0,6.3,35146.0,3
+Planet of the Apes,Conquest of the Planet of the Apes,1972.0,6.1,32603.0,4
+Planet of the Apes,Battle for the Planet of the Apes,1973.0,5.4,30914.0,5
+Planet of the Apes,Planet of the Apes,2001.0,5.7,218583.0,6
+Planet of the Apes,Rise of the Planet of the Apes,2011.0,7.6,521197.0,7
+Planet of the Apes,Dawn of the Planet of the Apes,2014.0,7.6,435100.0,8
+Planet of the Apes,War for the Planet of the Apes,2017.0,7.4,251059.0,9
+Hannibal,The Silence of the Lambs,1991.0,8.6,1390351.0,1
+Hannibal,Hannibal,2001.0,6.8,271364.0,2
+Hannibal,Red Dragon,2002.0,7.2,269941.0,3
+Hannibal,Hannibal Rising,2007.0,6.1,109648.0,4
+Batman,Batman,1943.0,6.1,2187.0,1
+Batman,Batman and Robin,1949.0,6.0,1903.0,2
+Batman,Batman,1966.0,6.5,32927.0,3
+Batman,Batman,1989.0,7.5,371783.0,4
+Batman,Batman Returns,1992.0,7.1,300728.0,5
+Batman,Batman Forever,1995.0,5.4,250718.0,6
+Batman,Batman Begins,2005.0,8.2,1432028.0,7
+Batman,The Dark Knight,2008.0,9.0,2567998.0,8
+Batman,The Dark Knight Rises,2012.0,8.4,1658682.0,9
+Batman,The Batman,2022.0,7.9,506344.0,10
+James Bond,Dr. No,1962.0,7.2,164624.0,1
+James Bond,From Russia with Love,1963.0,7.4,132815.0,2
+James Bond,Goldfinger,1964.0,7.7,187889.0,3
+James Bond,Thunderball,1965.0,6.9,116875.0,4
+James Bond,You Only Live Twice,1967.0,6.8,108192.0,5
+James Bond,Casino Royale,1967.0,5.0,30019.0,6
+James Bond,On Her Majesty's Secret Service,1969.0,6.8,90634.0,7
+James Bond,Diamonds Are Forever,1971.0,6.5,105240.0,8
+James Bond,Live and Let Die,1973.0,6.7,106359.0,9
+James Bond,The Man with the Golden Gun,1974.0,6.7,104366.0,10
+James Bond,The Spy Who Loved Me,1977.0,7.0,107525.0,11
+James Bond,Moonraker,1979.0,6.2,99799.0,12
+James Bond,For Your Eyes Only,1981.0,6.7,100265.0,13
+James Bond,Octopussy,1983.0,6.5,104786.0,14
+James Bond,A View to a Kill,1985.0,6.3,96721.0,15
+James Bond,The Living Daylights,1987.0,6.7,97445.0,16
+James Bond,Licence to Kill,1989.0,6.6,103497.0,17
+James Bond,GoldenEye,1995.0,7.2,254661.0,18
+James Bond,Tomorrow Never Dies,1997.0,6.5,192867.0,19
+James Bond,The World Is Not Enough,1999.0,6.4,199261.0,20
+James Bond,Die Another Day,2002.0,6.1,217742.0,21
+James Bond,Casino Royale,2006.0,8.0,646526.0,22
+James Bond,Quantum of Solace,2008.0,6.6,442781.0,23
+James Bond,Skyfall,2012.0,7.8,686761.0,24
+James Bond,Spectre,2015.0,6.8,433120.0,25
+James Bond,No Time to Die,2021.0,7.3,360560.0,26
+Rocky,Rocky,1976.0,8.1,562008.0,1
+Rocky,Rocky II,1979.0,7.3,206037.0,2
+Rocky,Rocky III,1982.0,6.8,187797.0,3
+Rocky,Rocky IV,1985.0,6.8,201963.0,4
+Rocky,Rocky V,1990.0,5.3,135817.0,5
+Rocky,Rocky Balboa,2006.0,7.1,214441.0,6
+Dirty Harry,The Enforcer,1951.0,7.3,5020.0,1
+Dirty Harry,Dirty Harry,1971.0,7.7,154408.0,2
+Dirty Harry,Magnum Force,1973.0,7.2,61144.0,3
+Dirty Harry,The Enforcer,1976.0,6.7,45290.0,4
+Dirty Harry,Sudden Impact,1983.0,6.6,44680.0,5
+Dirty Harry,The Dead Pool,1988.0,6.2,45562.0,6
+Dirty Harry,The Enforcer,1995.0,6.5,5120.0,7
+Alien,Alien,1979.0,8.5,856938.0,1
+Alien,Aliens,1986.0,8.4,701678.0,2
+Alien,Alien³,1992.0,6.4,295710.0,3
+Alien,Alien Resurrection,1997.0,6.2,244244.0,4
+Alien,Alien vs. Predator,2004.0,5.6,195428.0,5
+Alien,Aliens vs. Predator - Requiem,2007.0,4.6,122921.0,6
+Alien,Prometheus,2012.0,7.0,600268.0,7
+Alien,Alien: Covenant,2017.0,6.4,275731.0,8
+Die Hard,Die Hard,1988.0,8.2,859473.0,1
+Die Hard,Die Hard 2,1990.0,7.1,357774.0,2
+Die Hard,Die Hard: With a Vengeance,1995.0,7.6,383223.0,3
+Die Hard,Live Free or Die Hard,2007.0,7.1,403381.0,4
+Die Hard,A Good Day to Die Hard,2013.0,5.2,206192.0,5
+Jurassic Park,Jurassic Park,1993.0,8.2,952283.0,1
+Jurassic Park,The Lost World: Jurassic Park,1997.0,6.5,408746.0,2
+Jurassic Park,Jurassic Park III,2001.0,5.9,315355.0,3
+Jurassic Park,Jurassic World,2015.0,6.9,624654.0,4
+Jurassic Park,Jurassic World: Fallen Kingdom,2018.0,6.1,301077.0,5
+Jurassic Park,Jurassic World: Dominion,2022.0,6.0,33020.0,6
+Fast and the Furious,The Fast and the Furious,2001.0,6.8,379310.0,1
+Fast and the Furious,2 Fast 2 Furious,2003.0,5.9,270580.0,2
+Fast and the Furious,The Fast and the Furious: Tokyo Drift ,2006.0,6.0,266967.0,3
+Fast and the Furious,Fast & Furious,2009.0,6.5,283323.0,4
+Fast and the Furious,Fast Five,2011.0,7.3,376298.0,5
+Fast and the Furious,Fast & Furious 6,2013.0,7.0,390227.0,6
+Fast and the Furious,Furious 7,2015.0,7.1,384762.0,7
+Fast and the Furious,The Fate of the Furious,2017.0,6.6,227703.0,8
+Fast and the Furious,F9: The Fast Saga,2021.0,5.2,124697.0,9
+Lethal Weapon,Lethal Weapon,1987.0,7.6,254908.0,1
+Lethal Weapon,Lethal Weapon 2,1989.0,7.2,173857.0,2
+Lethal Weapon,Lethal Weapon 3,1992.0,6.7,166789.0,3
+Lethal Weapon,Lethal Weapon 4,1998.0,6.6,161892.0,4
+Pirates of the Caribbean,Pirates of the Caribbean: The Curse of the Black Pearl ,2003.0,8.1,1096922.0,1
+Pirates of the Caribbean,Pirates of the Caribbean: Dead Man's Chest,2006.0,7.3,703014.0,2
+Pirates of the Caribbean,Pirates of the Caribbean: At World's End,2007.0,7.1,638130.0,3
+Pirates of the Caribbean,Pirates of the Caribbean: On Stranger Tides,2011.0,6.6,517186.0,4
+Pirates of the Caribbean,Pirates of the Caribbean: Dead Men Tell No Tales,2017.0,6.5,301245.0,5
+American Pie,American Pie,1999.0,7.0,400722.0,1
+American Pie,American Pie 2,2001.0,6.4,253085.0,2
+American Pie,American Wedding,2003.0,6.3,204558.0,3
+American Pie,American Reunion,2012.0,6.7,212739.0,4
+Rambo,First Blood,1982.0,7.7,246968.0,1
+Rambo,Rambo: First Blood Part II ,1985.0,6.5,166637.0,2
+Rambo,Rambo III,1988.0,5.8,129984.0,3
+Rambo,Rambo,2008.0,7.0,229467.0,4
+Rambo,Rambo: Last Blood,2019.0,6.1,95803.0,5
+The Mummy,The Mummy,1999.0,7.1,421129.0,1
+The Mummy,The Mummy Returns,2001.0,6.4,319916.0,2
+The Mummy,The Scorpion King,2002.0,5.5,137496.0,3
+The Mummy,The Mummy: Tomb of the Dragon Emperor,2008.0,5.2,159393.0,4
+Transformers,Transformers,2007.0,7.0,628351.0,1
+Transformers,Transformers: Revenge of the Fallen,2009.0,5.9,403428.0,2
+Transformers,Transformers: Dark of the Moon,2011.0,6.2,403537.0,3
+Transformers,Transformers: Age of Extinction,2014.0,5.6,311095.0,4
+Transformers,Transformers: The Last Knight,2017.0,5.2,148855.0,5
+Resident Evil,Resident Evil,2002.0,6.6,266581.0,1
+Resident Evil,Resident Evil: Apocalypse,2004.0,6.1,197451.0,2
+Resident Evil,Resident Evil: Extinction,2007.0,6.2,193808.0,3
+Resident Evil,Resident Evil: Afterlife,2010.0,5.8,170419.0,4
+Resident Evil,Resident Evil: Retribution,2012.0,5.3,141145.0,5
+Resident Evil,Resident Evil: The Final Chapter,2016.0,5.5,92628.0,6
+Underworld,Underworld,2003.0,7.0,266855.0,1
+Underworld,Underworld: Evolution,2006.0,6.7,198540.0,2
+Underworld,Underworld: Rise of the Lycans,2009.0,6.5,158929.0,3
+Underworld,Underworld: Awakening,2012.0,6.3,153291.0,4
+Underworld,Underworld: Blood Wars,2016.0,5.7,75305.0,5
+Police Academy,Police Academy,1984.0,6.7,124231.0,1
+Police Academy,Police Academy 2: Their First Assignment,1985.0,5.7,54922.0,2
+Police Academy,Police Academy 3: Back in Training,1986.0,5.3,45275.0,3
+Police Academy,Police Academy 4: Citizens on Patrol,1987.0,4.9,42742.0,4
+Police Academy,Police Academy 5: Assignment: Miami Beach,1988.0,4.5,35943.0,5
+Police Academy,Police Academy 6: City Under Siege,1989.0,4.3,31114.0,6
+Police Academy,Police Academy: Mission to Moscow,1994.0,3.4,33839.0,7
+Back to the Future,Back to the Future,1985.0,8.5,1165534.0,1
+Back to the Future,Back to the Future Part II,1989.0,7.8,520053.0,2
+Back to the Future,Back to the Future Part III,1990.0,7.4,437124.0,3
+Saw,Saw,2004.0,7.6,411751.0,1
+Saw,Saw II,2005.0,6.6,248987.0,2
+Saw,Saw III,2006.0,6.2,191323.0,3
+Saw,Saw IV,2007.0,5.9,149304.0,4
+Saw,Saw V,2008.0,5.8,123598.0,5
+Saw,Saw VI,2009.0,6.0,110687.0,6
+Saw,Saw: The Final Chapter,2010.0,5.5,97788.0,7
+Final Destination,Final Destination,2000.0,6.7,249563.0,1
+Final Destination,Final Destination 2,2003.0,6.2,164290.0,2
+Final Destination,Final Destination 3,2006.0,5.8,140323.0,3
+Final Destination,The Final Destination,2009.0,5.1,104569.0,4
+Final Destination,Final Destination 5,2011.0,5.9,114919.0,5
+The Crow,The Crow,1994.0,7.5,180661.0,1
+The Crow,The Crow: City of Angels,1996.0,4.6,20345.0,2
+The Crow,The Crow: Salvation,2000.0,4.9,11537.0,3
+The Crow,The Crow: Wicked Prayer,2005.0,3.0,8958.0,4
+Men in Black,Men in Black,1997.0,7.3,555904.0,1
+Men in Black,Men in Black II,2002.0,6.1,368344.0,2
+Men in Black,Men in Black 3,2012.0,6.8,356972.0,3
+Men in Black,Men in Black: International,2019.0,5.6,131319.0,4
+Scary Movie,Scary Movie,2000.0,6.2,255782.0,1
+Scary Movie,Scary Movie 2,2001.0,5.3,159955.0,2
+Scary Movie,Scary Movie 3,2003.0,5.5,146254.0,3
+Scary Movie,Scary Movie 4,2006.0,5.1,120489.0,4
+Scary Movie,Scary Movie V,2013.0,3.5,71057.0,5
+The Godfather,The Godfather,1972.0,9.2,1792174.0,1
+The Godfather,The Godfather Part II,1974.0,9.0,1235734.0,2
+The Godfather,The Godfather Part III,1990.0,7.6,389009.0,3
+John Wick,John Wick,2014.0,7.4,608449.0,1
+John Wick,John Wick: Chapter 2,2017.0,7.4,416535.0,2
+John Wick,John Wick: Chapter 3 - Parabellum,2019.0,7.4,328069.0,3
+The Matrix,The Matrix,1999.0,8.7,1864956.0,1
+The Matrix,The Matrix Reloaded,2003.0,7.2,586141.0,2
+The Matrix,The Matrix Revolutions,2003.0,6.7,505906.0,3
+The Matrix,The Matrix Resurrections,2021.0,5.7,229445.0,4
